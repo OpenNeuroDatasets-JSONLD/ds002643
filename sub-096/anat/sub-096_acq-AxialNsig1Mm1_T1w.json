@@ -1,0 +1,32 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "acq-AxialNsig1Mm1_T1w",
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 2,
+    "ImageComments": "RepliSC",
+    "PhilipsRescaleSlope": 3.52234,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00499495,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00393,
+    "RepetitionTime": 0.00847,
+    "InversionTime": 0.9,
+    "ReconMatrixPE": 240,
+    "ImageOrientationPatientDICOM": [
+        0.996099,
+        0.0840181,
+        0.0269883,
+        -0.0710518,
+        0.944962,
+        -0.319372
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20180622 GCC5.4.0",
+    "BidsifyVersion": "0.3",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "BIDSVersion": "1.1.0",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC"
+}
