@@ -1,0 +1,99 @@
+onset	duration	trial_type	stim_id	choice
+0.083	2.49	health_choice	400.jpg	Ongezond
+2.573	0.518	health_feedback	400.jpg	Ongezond
+17.666	2.612	health_choice	259.jpg	Gezond
+20.278	0.521	health_feedback	259.jpg	Gezond
+33.249	1.706	health_choice	90.jpg	Heel erg gezond
+34.955	0.519	health_feedback	90.jpg	Heel erg gezond
+42.84	1.126	health_choice	403.jpg	Heel erg ongezond
+43.966	0.524	health_feedback	403.jpg	Heel erg ongezond
+54.431	2.247	health_choice	48.jpg	Heel erg ongezond
+56.678	0.52	health_feedback	48.jpg	Heel erg ongezond
+68.014	2.009	health_choice	255.jpg	Heel erg ongezond
+70.023	0.516	health_feedback	255.jpg	Heel erg ongezond
+86.597	1.719	health_choice	81.jpg	Gezond
+88.316	0.523	health_feedback	81.jpg	Gezond
+103.188	2.76	health_choice	412.jpg	Neutraal
+105.948	0.523	health_feedback	412.jpg	Neutraal
+113.771	0.656	health_choice	144.jpg	Heel erg gezond
+114.427	0.519	health_feedback	144.jpg	Heel erg gezond
+145.929	1.123	health_choice	411.jpg	Neutraal
+147.052	0.518	health_feedback	411.jpg	Neutraal
+160.512	0.969	health_choice	35.jpg	Heel erg ongezond
+161.481	0.522	health_feedback	35.jpg	Heel erg ongezond
+173.094	0.972	health_choice	53.jpg	Heel erg gezond
+174.066	0.52	health_feedback	53.jpg	Heel erg gezond
+181.678	1.353	health_choice	64.jpg	Gezond
+183.031	0.521	health_feedback	64.jpg	Gezond
+199.26	1.264	health_choice	413.jpg	Neutraal
+200.524	0.52	health_feedback	413.jpg	Neutraal
+207.843	1.426	health_choice	410.jpg	Neutraal
+209.269	0.516	health_feedback	410.jpg	Neutraal
+221.426	1.021	health_choice	153.jpg	Heel erg gezond
+222.447	0.521	health_feedback	153.jpg	Heel erg gezond
+236.009	0.733	health_choice	171.jpg	Heel erg gezond
+236.742	0.517	health_feedback	171.jpg	Heel erg gezond
+246.592	1.53	health_choice	69.jpg	Neutraal
+248.122	0.52	health_feedback	69.jpg	Neutraal
+261.175	0.753	health_choice	91.jpg	Heel erg gezond
+261.928	0.522	health_feedback	91.jpg	Heel erg gezond
+270.758	1.006	health_choice	119.jpg	Heel erg ongezond
+271.764	0.519	health_feedback	119.jpg	Heel erg ongezond
+281.341	0.581	health_choice	402.jpg	Heel erg ongezond
+281.922	0.519	health_feedback	402.jpg	Heel erg ongezond
+293.924	0.634	health_choice	34.jpg	Heel erg ongezond
+294.558	0.516	health_feedback	34.jpg	Heel erg ongezond
+306.516	0.966	health_choice	40.jpg	Heel erg ongezond
+307.482	0.517	health_feedback	40.jpg	Heel erg ongezond
+317.099	1.092	health_choice	104.jpg	Heel erg ongezond
+318.191	0.524	health_feedback	104.jpg	Heel erg ongezond
+330.69	1.532	health_choice	32.jpg	Neutraal
+332.222	0.518	health_feedback	32.jpg	Neutraal
+340.273	1.001	health_choice	74.jpg	Heel erg gezond
+341.274	0.524	health_feedback	74.jpg	Heel erg gezond
+356.864	1.066	health_choice	29.jpg	Heel erg ongezond
+357.93	0.517	health_feedback	29.jpg	Heel erg ongezond
+367.447	0.869	health_choice	139.jpg	Heel erg ongezond
+368.316	0.523	health_feedback	139.jpg	Heel erg ongezond
+376.03	1.485	health_choice	45.jpg	Ongezond
+377.515	0.523	health_feedback	45.jpg	Ongezond
+394.613	1.163	health_choice	24.jpg	Heel erg ongezond
+395.776	0.52	health_feedback	24.jpg	Heel erg ongezond
+404.196	1.308	health_choice	2.jpg	Heel erg ongezond
+405.504	0.517	health_feedback	2.jpg	Heel erg ongezond
+412.779	1.268	health_choice	337.jpg	Gezond
+414.047	0.524	health_feedback	337.jpg	Gezond
+428.37	0.821	health_choice	401.jpg	Heel erg ongezond
+429.191	0.521	health_feedback	401.jpg	Heel erg ongezond
+436.953	0.816	health_choice	118.jpg	Heel erg ongezond
+437.769	0.518	health_feedback	118.jpg	Heel erg ongezond
+455.536	1.346	health_choice	336.jpg	Gezond
+456.882	0.521	health_feedback	336.jpg	Gezond
+472.119	1.482	health_choice	72.jpg	Gezond
+473.601	0.518	health_feedback	72.jpg	Gezond
+490.702	1.361	health_choice	8.jpg	Ongezond
+492.063	0.522	health_feedback	8.jpg	Ongezond
+502.285	1.168	health_choice	89.jpg	Gezond
+503.453	0.523	health_feedback	89.jpg	Gezond
+518.876	0.783	health_choice	65.jpg	Heel erg gezond
+519.659	0.517	health_feedback	65.jpg	Heel erg gezond
+532.459	0.756	health_choice	142.jpg	Heel erg gezond
+533.215	0.519	health_feedback	142.jpg	Heel erg gezond
+547.05	0.826	health_choice	404.jpg	Heel erg ongezond
+547.876	0.524	health_feedback	404.jpg	Heel erg ongezond
+559.641	1.101	health_choice	213.jpg	Gezond
+560.742	0.524	health_feedback	213.jpg	Gezond
+571.233	0.73	health_choice	116.jpg	Heel erg ongezond
+571.963	0.52	health_feedback	116.jpg	Heel erg ongezond
+586.816	1.487	health_choice	326.jpg	Gezond
+588.303	0.521	health_feedback	326.jpg	Gezond
+605.398	0.782	health_choice	353.jpg	Heel erg ongezond
+606.18	0.518	health_feedback	353.jpg	Heel erg ongezond
+616.981	0.688	health_choice	82.jpg	Heel erg ongezond
+617.669	0.521	health_feedback	82.jpg	Heel erg ongezond
+633.564	1.142	health_choice	101.jpg	Heel erg ongezond
+634.706	0.517	health_feedback	101.jpg	Heel erg ongezond
+651.147	1.673	health_choice	154.jpg	Gezond
+652.82	0.519	health_feedback	154.jpg	Gezond
+666.73	0.928	health_choice	235.jpg	Heel erg ongezond
+667.658	0.522	health_feedback	235.jpg	Heel erg ongezond

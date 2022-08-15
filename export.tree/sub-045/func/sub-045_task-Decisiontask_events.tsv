@@ -1,0 +1,101 @@
+onset	duration	trial_type	stim_id	choice
+0.066	2.089	decision_choice	235.jpg	Zeker ja
+2.155	0.536	decision_feedback	235.jpg	Zeker ja
+11.674	1.665	decision_choice	171.jpg	Ja
+13.339	0.527	decision_feedback	171.jpg	Ja
+25.274	2.188	decision_choice	337.jpg	Zeker ja
+27.462	0.528	decision_feedback	337.jpg	Zeker ja
+36.882	1.216	decision_choice	2.jpg	Ja
+38.098	0.534	decision_feedback	2.jpg	Ja
+45.49	1.054	decision_choice	65.jpg	Ja
+46.544	0.529	decision_feedback	65.jpg	Ja
+55.09	1.759	decision_choice	154.jpg	Nee
+56.849	0.524	decision_feedback	154.jpg	Nee
+65.69	1.913	decision_choice	403.jpg	Ja
+67.603	0.528	decision_feedback	403.jpg	Ja
+82.297	1.446	decision_choice	8.jpg	Ja
+83.743	0.529	decision_feedback	8.jpg	Ja
+98.905	1.916	decision_choice	255.jpg	Nee
+100.821	0.534	decision_feedback	255.jpg	Nee
+111.513	2.071	decision_choice	35.jpg	Neutraal
+113.584	0.529	decision_feedback	35.jpg	Neutraal
+122.113	2.009	decision_choice	24.jpg	Ja
+124.122	0.533	decision_feedback	24.jpg	Ja
+140.721	1.877	decision_choice	48.jpg	Ja
+142.598	0.531	decision_feedback	48.jpg	Ja
+155.329	1.992	decision_choice	89.jpg	Zeker ja
+157.321	0.533	decision_feedback	89.jpg	Zeker ja
+166.937	1.288	decision_choice	259.jpg	Zeker ja
+168.225	0.529	decision_feedback	259.jpg	Zeker ja
+176.537	1.413	decision_choice	45.jpg	Nee
+177.95	0.529	decision_feedback	45.jpg	Nee
+192.145	1.449	decision_choice	69.jpg	Zeker nee
+193.594	0.526	decision_feedback	69.jpg	Zeker nee
+209.744	1.012	decision_choice	142.jpg	Ja
+210.756	0.53	decision_feedback	142.jpg	Ja
+224.352	1.531	decision_choice	410.jpg	Nee
+225.883	0.528	decision_feedback	410.jpg	Nee
+239.952	1.437	decision_choice	414.jpg	Zeker nee
+241.389	0.53	decision_feedback	414.jpg	Zeker nee
+255.552	1.135	decision_choice	91.jpg	Ja
+256.687	0.531	decision_feedback	91.jpg	Ja
+272.16	0.906	decision_choice	153.jpg	Ja
+273.066	0.527	decision_feedback	153.jpg	Ja
+280.759	1.21	decision_choice	29.jpg	Ja
+281.969	0.532	decision_feedback	29.jpg	Ja
+290.368	1.352	decision_choice	116.jpg	Ja
+291.72	0.531	decision_feedback	116.jpg	Ja
+302.984	0.984	decision_choice	82.jpg	Ja
+303.968	0.533	decision_feedback	82.jpg	Ja
+317.592	1.553	decision_choice	326.jpg	Zeker ja
+319.145	0.53	decision_feedback	326.jpg	Zeker ja
+328.2	1.306	decision_choice	413.jpg	Zeker nee
+329.506	0.527	decision_feedback	413.jpg	Zeker nee
+345.8	2.076	decision_choice	401.jpg	Neutraal
+347.876	0.532	decision_feedback	401.jpg	Neutraal
+362.407	1.204	decision_choice	139.jpg	Ja
+363.611	0.53	decision_feedback	139.jpg	Ja
+376.015	1.035	decision_choice	144.jpg	Zeker ja
+377.05	0.532	decision_feedback	144.jpg	Zeker ja
+388.624	1.479	decision_choice	53.jpg	Zeker nee
+390.103	0.529	decision_feedback	53.jpg	Zeker nee
+407.231	2.023	decision_choice	40.jpg	Ja
+409.254	0.536	decision_feedback	40.jpg	Ja
+425.839	1.701	decision_choice	336.jpg	Zeker nee
+427.54	0.524	decision_feedback	336.jpg	Zeker nee
+438.439	1.815	decision_choice	90.jpg	Ja
+440.254	0.527	decision_feedback	90.jpg	Ja
+455.039	1.212	decision_choice	404.jpg	Zeker nee
+456.251	0.529	decision_feedback	404.jpg	Zeker nee
+473.638	2.354	decision_choice	64.jpg	Nee
+475.992	0.529	decision_feedback	64.jpg	Nee
+486.238	2.081	decision_choice	104.jpg	Ja
+488.319	0.535	decision_feedback	104.jpg	Ja
+496.846	1.505	decision_choice	353.jpg	Nee
+498.351	0.528	decision_feedback	353.jpg	Nee
+505.454	1.159	decision_choice	81.jpg	Ja
+506.613	0.524	decision_feedback	81.jpg	Ja
+520.062	1.223	decision_choice	412.jpg	Zeker nee
+521.285	0.527	decision_feedback	412.jpg	Zeker nee
+531.662	1.308	decision_choice	34.jpg	Ja
+532.97	0.525	decision_feedback	34.jpg	Ja
+540.262	1.354	decision_choice	402.jpg	Zeker ja
+541.616	0.529	decision_feedback	402.jpg	Zeker ja
+553.87	1.199	decision_choice	101.jpg	Zeker ja
+555.069	0.526	decision_feedback	101.jpg	Zeker ja
+572.477	1.213	decision_choice	400.jpg	Ja
+573.69	0.529	decision_feedback	400.jpg	Ja
+586.077	2.211	decision_choice	213.jpg	Neutraal
+588.288	0.531	decision_feedback	213.jpg	Neutraal
+603.677	1.482	decision_choice	119.jpg	Nee
+605.159	0.526	decision_feedback	119.jpg	Nee
+613.277	1.743	decision_choice	72.jpg	Neutraal
+615.02	0.531	decision_feedback	72.jpg	Neutraal
+621.885	1.204	decision_choice	118.jpg	Ja
+623.089	0.529	decision_feedback	118.jpg	Ja
+636.484	1.079	decision_choice	411.jpg	Nee
+637.563	0.53	decision_feedback	411.jpg	Nee
+652.084	2.624	decision_choice	32.jpg	Neutraal
+654.708	0.534	decision_feedback	32.jpg	Neutraal
+662.692	1.373	decision_choice	74.jpg	Zeker nee
+664.065	0.527	decision_feedback	74.jpg	Zeker nee
