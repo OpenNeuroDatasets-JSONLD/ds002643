@@ -1,0 +1,101 @@
+onset	duration	trial_type	stim_id	choice
+0.058	1.609	taste_choice	153.jpg	Lekker
+1.667	0.525	taste_feedback	153.jpg	Lekker
+11.658	1.112	taste_choice	259.jpg	Lekker
+12.77	0.53	taste_feedback	259.jpg	Lekker
+24.266	1.125	taste_choice	89.jpg	Neutraal
+25.391	0.525	taste_feedback	89.jpg	Neutraal
+33.866	1.877	taste_choice	412.jpg	Niet lekker
+35.743	0.531	taste_feedback	412.jpg	Niet lekker
+48.474	1.442	taste_choice	104.jpg	Heel erg lekker
+49.916	0.524	taste_feedback	104.jpg	Heel erg lekker
+62.073	1.578	taste_choice	404.jpg	Niet lekker
+63.651	0.531	taste_feedback	404.jpg	Niet lekker
+80.681	1.407	taste_choice	53.jpg	Niet lekker
+82.088	0.526	taste_feedback	53.jpg	Niet lekker
+94.289	0.981	taste_choice	400.jpg	Heel erg lekker
+95.27	0.527	taste_feedback	400.jpg	Heel erg lekker
+106.889	0.824	taste_choice	144.jpg	Heel erg lekker
+107.713	0.534	taste_feedback	144.jpg	Heel erg lekker
+122.497	1.248	taste_choice	101.jpg	Lekker
+123.745	0.527	taste_feedback	101.jpg	Lekker
+138.096	1.705	taste_choice	2.jpg	Lekker
+139.801	0.528	taste_feedback	2.jpg	Lekker
+149.704	1.463	taste_choice	353.jpg	Niet lekker
+151.167	0.529	taste_feedback	353.jpg	Niet lekker
+158.312	1.51	taste_choice	235.jpg	Neutraal
+159.822	0.532	taste_feedback	235.jpg	Neutraal
+172.92	1.42	taste_choice	69.jpg	Lekker
+174.34	0.53	taste_feedback	69.jpg	Lekker
+182.52	1.616	taste_choice	34.jpg	Neutraal
+184.136	0.526	taste_feedback	34.jpg	Neutraal
+200.12	0.868	taste_choice	24.jpg	Heel erg lekker
+200.988	0.531	taste_feedback	24.jpg	Heel erg lekker
+213.727	0.864	taste_choice	171.jpg	Lekker
+214.591	0.528	taste_feedback	171.jpg	Lekker
+231.327	1.738	taste_choice	401.jpg	Lekker
+233.065	0.529	taste_feedback	401.jpg	Lekker
+243.935	1.175	taste_choice	64.jpg	Lekker
+245.11	0.533	taste_feedback	64.jpg	Lekker
+258.543	1.367	taste_choice	403.jpg	Lekker
+259.91	0.525	taste_feedback	403.jpg	Lekker
+270.143	0.901	taste_choice	90.jpg	Heel erg lekker
+271.044	0.524	taste_feedback	90.jpg	Heel erg lekker
+284.742	1.639	taste_choice	336.jpg	Neutraal
+286.381	0.528	taste_feedback	336.jpg	Neutraal
+303.342	0.93	taste_choice	91.jpg	Heel erg lekker
+304.272	0.528	taste_feedback	91.jpg	Heel erg lekker
+311.942	1.358	taste_choice	8.jpg	Heel erg lekker
+313.3	0.533	taste_feedback	8.jpg	Heel erg lekker
+323.55	0.998	taste_choice	139.jpg	Heel erg lekker
+324.548	0.526	taste_feedback	139.jpg	Heel erg lekker
+341.149	1.86	taste_choice	48.jpg	Helemaal niet lekker
+343.009	0.532	taste_feedback	48.jpg	Helemaal niet lekker
+353.757	0.86	taste_choice	65.jpg	Heel erg lekker
+354.617	0.532	taste_feedback	65.jpg	Heel erg lekker
+366.365	1.381	taste_choice	411.jpg	Neutraal
+367.746	0.527	taste_feedback	411.jpg	Neutraal
+382.965	1.807	taste_choice	337.jpg	Lekker
+384.772	0.534	taste_feedback	337.jpg	Lekker
+398.573	1.615	taste_choice	35.jpg	Neutraal
+400.188	0.526	taste_feedback	35.jpg	Neutraal
+417.172	1.245	taste_choice	118.jpg	Lekker
+418.417	0.53	taste_feedback	118.jpg	Lekker
+425.78	1.067	taste_choice	81.jpg	Lekker
+426.847	0.525	taste_feedback	81.jpg	Lekker
+442.38	1.594	taste_choice	32.jpg	Neutraal
+443.974	0.531	taste_feedback	32.jpg	Neutraal
+455.988	1.125	taste_choice	74.jpg	Helemaal niet lekker
+457.113	0.533	taste_feedback	74.jpg	Helemaal niet lekker
+472.595	1.191	taste_choice	40.jpg	Heel erg lekker
+473.786	0.526	taste_feedback	40.jpg	Heel erg lekker
+489.195	1.428	taste_choice	410.jpg	Niet lekker
+490.623	0.53	taste_feedback	410.jpg	Niet lekker
+499.803	1.091	taste_choice	72.jpg	Lekker
+500.894	0.526	taste_feedback	72.jpg	Lekker
+517.403	1.086	taste_choice	402.jpg	Lekker
+518.489	0.53	taste_feedback	402.jpg	Lekker
+528.011	1.391	taste_choice	413.jpg	Helemaal niet lekker
+529.402	0.534	taste_feedback	413.jpg	Helemaal niet lekker
+538.619	1.667	taste_choice	414.jpg	Niet lekker
+540.286	0.524	taste_feedback	414.jpg	Niet lekker
+554.218	1.087	taste_choice	154.jpg	Heel erg lekker
+555.305	0.53	taste_feedback	154.jpg	Heel erg lekker
+564.826	0.91	taste_choice	29.jpg	Lekker
+565.736	0.532	taste_feedback	29.jpg	Lekker
+574.434	1.513	taste_choice	45.jpg	Neutraal
+575.947	0.529	taste_feedback	45.jpg	Neutraal
+584.042	1.073	taste_choice	116.jpg	Heel erg lekker
+585.115	0.527	taste_feedback	116.jpg	Heel erg lekker
+594.642	1.067	taste_choice	82.jpg	Lekker
+595.709	0.525	taste_feedback	82.jpg	Lekker
+603.242	1.645	taste_choice	255.jpg	Lekker
+604.887	0.53	taste_feedback	255.jpg	Lekker
+621.841	1.428	taste_choice	119.jpg	Lekker
+623.269	0.531	taste_feedback	119.jpg	Lekker
+638.449	1.855	taste_choice	326.jpg	Lekker
+640.304	0.529	taste_feedback	326.jpg	Lekker
+647.057	1.009	taste_choice	142.jpg	Heel erg lekker
+648.066	0.533	taste_feedback	142.jpg	Heel erg lekker
+665.665	1.2	taste_choice	213.jpg	Niet lekker
+666.865	0.525	taste_feedback	213.jpg	Niet lekker
